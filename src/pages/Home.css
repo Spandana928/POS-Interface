@@ -1,0 +1,32 @@
+/* Home.css */
+
+.home-container {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh; /* Full viewport height */
+    background: linear-gradient(135deg, #007bff, #6a11cb); /* Gradient background */
+    color: #ffffff; /* White text */
+    text-align: center; /* Center align text */
+  }
+  
+  .welcome-box {
+    background: rgba(255, 255, 255, 0.1); /* Semi-transparent background */
+    padding: 2rem 3rem;
+    border-radius: 10px;
+    box-shadow: 0 4px 15px rgba(0, 0, 0, 0.2); /* Shadow for depth */
+  }
+  
+  h1 {
+    font-size: 3rem;
+    margin-bottom: 1rem;
+  }
+  
+  p {
+    font-size: 1.2rem;
+    margin-bottom: 1.5rem;
+  }
+  
+  
+
+  

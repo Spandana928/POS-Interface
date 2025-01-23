@@ -1,0 +1,12 @@
+/* Cart.css */
+.cart {
+    display: flex;
+    flex-direction: column;
+    gap: 10px;
+}
+
+@media (max-width: 600px) {
+    .cart {
+        flex-direction: column;
+    }
+}

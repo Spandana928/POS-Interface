@@ -1,0 +1,32 @@
+
+.pos-container {
+    padding: 20px;
+    font-family: Arial, sans-serif;
+  }
+  
+  .language-switcher,
+  .currency-selector,
+  .search-box {
+    margin-bottom: 20px; /* Spacing between components */
+  }
+  
+  .language-switcher button {
+    margin-right: 5px; /* Space between language buttons */
+  }
+  
+  .currency-selector label {
+    margin-right: 5px;
+  }
+  
+  .search-box {
+    width: 100%;
+    padding: 8px;
+    margin-top: 5px;
+  }
+  
+  .section-title {
+    font-size: 24px;
+    font-weight: bold;
+    margin: 20px 0;
+  }
+  
